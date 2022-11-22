@@ -5,7 +5,7 @@
   <h2><b>Hello rails back end</b></h2>
 </div>
 
-### [Link to front end](https://github.com/hammaazarok/hello-rails-back-end)
+### [Link to front end](https://github.com/hammaazarok/hello-react-front-end)
 
 
 <br>
